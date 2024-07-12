@@ -20,13 +20,10 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/firdavs-shavqiddinov-581889254">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="www.x.com/@FShavqiddinov">
+    <img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=X&logoColor=black" alt="Twitter Badge"/>
   </a>
 </div>
